@@ -35,7 +35,7 @@ class Student {
 
 // Assign studentId and name
 Student::assignDetails() {
-  
+
 }
 
 // Display StudentId and Name
