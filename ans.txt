@@ -1,4 +1,2 @@
-Enter the Height of the Box : Enter the Length of the Box : Enter the width of the Box : Box Height 10
-Box Length 10
-Box Width 10
-Volume of Box is 100
+student id is 1212
+student name is Amalinga

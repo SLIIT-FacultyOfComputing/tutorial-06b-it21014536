@@ -11,6 +11,6 @@ void Student::assignDetails(int sid,char sname[20]) {
 
 // Display StudentId and Name
  void Student::display() {
-  cout<<"student id is"<<studentID<<endl;
-  cout<<"student name is"<<name;
+  cout<<"student id is "<<studentID<<endl;
+  cout<<"student name is "<<name;
 }
